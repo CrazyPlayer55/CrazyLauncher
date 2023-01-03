@@ -1,0 +1,10 @@
+D:\Coding\Crazy Launcher\bin\Debug\Crazy Launcher.exe.config
+D:\Coding\Crazy Launcher\bin\Debug\Crazy Launcher.exe
+D:\Coding\Crazy Launcher\bin\Debug\Crazy Launcher.pdb
+D:\Coding\Crazy Launcher\obj\Debug\Crazy Launcher.csprojAssemblyReference.cache
+D:\Coding\Crazy Launcher\obj\Debug\Crazy_Launcher.Form1.resources
+D:\Coding\Crazy Launcher\obj\Debug\Crazy_Launcher.Properties.Resources.resources
+D:\Coding\Crazy Launcher\obj\Debug\Crazy Launcher.csproj.GenerateResource.cache
+D:\Coding\Crazy Launcher\obj\Debug\Crazy Launcher.csproj.CoreCompileInputs.cache
+D:\Coding\Crazy Launcher\obj\Debug\Crazy Launcher.exe
+D:\Coding\Crazy Launcher\obj\Debug\Crazy Launcher.pdb
